@@ -3,7 +3,7 @@
 A Tour Of Go Exercise を実施した記録です。
 Exercise をフォルダごとに格納しています。
 
-## Loop and Functions
+## Exercise: Loops and Functions
 
 ### Link
 
@@ -32,3 +32,23 @@ go run loop_and_functions.go -num=3
 own sqrt: 1.7320508075688772
 math pkg sqrt: 1.7320508075688772
 ```
+
+## Exercise: Slices
+
+### Link
+
+[Exercise: Slices](https://go-tour-jp.appspot.com/moretypes/18)
+
+### Usage
+
+```
+cd learn_Go/ex_slices
+```
+
+```
+go run slices.go
+```
+
+### OutPut
+
+<img src="images/exercise_slices.png" width="200px">
