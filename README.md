@@ -87,7 +87,7 @@ PASS
   map[string]int{"A":1, "a":2, "canal":1, "man":1, "panama.":1, "plan":1}
 ```
 
-## Exercise: Maps
+## Exercise: Fibonacci closure
 
 ### Link
 
