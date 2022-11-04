@@ -117,3 +117,26 @@ go run fibonacci_closure.go
 34
 55
 ```
+
+## Exercise: Stringers
+
+### Link
+
+[Exercise: Stringers](https://go-tour-jp.appspot.com/methods/18)
+
+### Usage
+
+```
+cd learn_Go/ex_stringers/
+```
+
+```
+go run stringers.go
+```
+
+### OutPut
+
+```
+loopback: 127.0.0.1
+googleDNS: 8.8.8.8
+```
