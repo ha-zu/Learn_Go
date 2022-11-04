@@ -1,6 +1,7 @@
 # Learn_Go
 
 A Tour Of Go Exercise を実施した記録です。
+
 Exercise をフォルダごとに格納しています。
 
 ## Exercise: Loops and Functions
@@ -84,4 +85,35 @@ PASS
 PASS
  f("A man a plan a canal panama.") =
   map[string]int{"A":1, "a":2, "canal":1, "man":1, "panama.":1, "plan":1}
+```
+
+## Exercise: Maps
+
+### Link
+
+[Exercise: Fibonacci closure](https://go-tour-jp.appspot.com/moretypes/26)
+
+### Usage
+
+```
+cd learn_Go/ex_fibonacci_closure/
+```
+
+```
+go run fibonacci_closure.go
+```
+
+### OutPut
+
+```
+1
+1
+2
+3
+5
+8
+13
+21
+34
+55
 ```
