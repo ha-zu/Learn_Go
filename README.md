@@ -140,3 +140,32 @@ go run stringers.go
 loopback: 127.0.0.1
 googleDNS: 8.8.8.8
 ```
+
+## Exercise: Errors
+
+### Link
+
+[Exercise: Errors](https://go-tour-jp.appspot.com/methods/20)
+
+### Usage
+
+```
+cd learn_Go/ex_errors/
+```
+
+```
+go run errors.go -num=3
+```
+
+### OutPut
+
+```
+0回目：2
+1回目：1.75
+2回目：1.7321428571428572
+3回目：1.7320508100147276
+4回目：1.7320508075688772
+1.7320508075688772 <nil>
+----
+-3 cannot Sqrt negative number: -3
+```
