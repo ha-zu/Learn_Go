@@ -15,7 +15,7 @@ type User struct {
 	Age  int64
 }
 
-//UserがTT型を実装しているか確認できる
+//UserがHuman型を実装しているか確認できる
 // Doc: https://go.dev/doc/faq#guarantee_satisfies_interface
 //レシーバがポインタの場合
 // var _ Human = (*User)(nil)
