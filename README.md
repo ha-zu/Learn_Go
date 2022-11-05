@@ -43,6 +43,10 @@ math pkg sqrt: 1.7320508075688772
 ### Usage
 
 ```
+go get golang.org/x/tour
+```
+
+```
 cd learn_Go/ex_slices
 ```
 
@@ -168,4 +172,26 @@ go run errors.go -num=3
 1.7320508075688772 <nil>
 ----
 -3 cannot Sqrt negative number: -3
+```
+
+## Exercise: Readers
+
+### Link
+
+[Exercise: Readers](https://go-tour-jp.appspot.com/methods/22)
+
+### Usage
+
+```
+cd learn_Go/ex_reader/
+```
+
+```
+go run reader.go
+```
+
+### OutPut
+
+```
+OK!
 ```
