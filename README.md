@@ -157,6 +157,8 @@ googleDNS: 8.8.8.8
 cd learn_Go/ex_errors/
 ```
 
+引数なしのデフォルトは 2 としている.
+
 ```
 go run errors.go -num=3
 ```
@@ -195,3 +197,23 @@ go run reader.go
 ```
 OK!
 ```
+
+## Exercise: rot13Reader
+
+### Link
+
+[Exercise: rot13Reader](https://go-tour-jp.appspot.com/methods/23)
+
+### Usage
+
+```
+cd learn_Go/ex_rot13Reader/
+```
+
+```
+go run rot13Reader.go
+```
+
+### OutPut
+
+looking forward to it.
