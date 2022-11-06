@@ -217,3 +217,23 @@ go run rot13Reader.go
 ### OutPut
 
 looking forward to it.
+
+## Exercise: Images
+
+### Link
+
+[Exercise: Images](https://go-tour-jp.appspot.com/methods/25)
+
+### Usage
+
+```
+cd learn_Go/ex_images/
+```
+
+```
+go run images.go
+```
+
+### OutPut
+
+<img src="images/ex_images.png" width="200px">
